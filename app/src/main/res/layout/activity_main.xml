@@ -37,8 +37,9 @@
 
     <Button
         android:id="@+id/submit_button"
-        android:hint="Submit "
+        android:hint="Submit"
         android:background="@color/colorPrimary"
+        android:textColor="#ffffff"
         android:layout_width="match_parent"
         android:layout_height="@dimen/editTextHeight" />
 
